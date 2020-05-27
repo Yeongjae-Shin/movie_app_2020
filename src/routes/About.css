@@ -12,9 +12,11 @@
 
 .about_container span:first-child {
   font-size: 20px;
+  letter-spacing: 1px;
 }
 
 .about_container span:last-child {
   display: block;
   margin-top: 10px;
+  letter-spacing: 1px;
 }
